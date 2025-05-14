@@ -1,9 +1,12 @@
-# PHP Star Pattern - Diamond
+# 💎 PHP Star Pattern - Diamond
 
-This is a simple PHP script that prints a diamond star pattern.
+This project prints a **diamond star pattern** using Core PHP. It's a simple script meant for beginners learning loops and string formatting in PHP.
 
-## Output Example:
+---
 
+## 🧾 Output
+
+```text
     *
    * *
   * * *
@@ -13,11 +16,3 @@ This is a simple PHP script that prints a diamond star pattern.
   * * *
    * *
     *
-
-## How to Run
-
-1. Make sure you have PHP installed.
-2. Open terminal and run:
-
-```bash
-php diamond.php
